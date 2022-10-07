@@ -2,7 +2,7 @@
   <configuration default="false" name="Main" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="virtual_robot.controller.VirtualRobotApplication" />
     <module name="Controller" />
-    <option name="VM_PARAMETERS" value="--module-path &quot;G:\Windows Folders\Documents\GitHub\rhsftc\OpenFx\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\ronse\Documents\GitHub\OpenFx\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>

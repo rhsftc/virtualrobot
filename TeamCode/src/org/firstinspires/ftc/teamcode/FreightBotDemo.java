@@ -73,7 +73,7 @@ public class FreightBotDemo extends LinearOpMode {
 
             if (Math.abs(pa) < 0.05) pa = 0;
             double p1 = -px + py - pa;
-            double p2 = px + py + -pa;
+            double p2 = px + py - pa;
             double p3 = -px + py + pa;
             double p4 = px + py + pa;
             double max = Math.max(1.0, Math.abs(p1));
